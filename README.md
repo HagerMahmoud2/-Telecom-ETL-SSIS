@@ -1,4 +1,4 @@
-Telecom-ETL-SSIS
+# Telecom-ETL-SSIS
 Project Overview
 
 Telecom-ETL-SSIS is a robust Extract, Transform, Load (ETL) solution designed to handle telecom data efficiently using SQL Server Integration Services (SSIS). The project processes large volumes of telecom-related data, including critical fields such as IMSI, IMEI, and EVENT_TS. It ensures data quality through validation, error handling, and thorough logging, making the data ready for analytics and reporting.
