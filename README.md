@@ -31,3 +31,24 @@ Linked processed records back to their original CSV files, ensuring full traceab
 
 The ETL process is designed to store validated data in a structured database model that aligns with business requirements.\
 Processed CSV files are automatically moved to designated folders, ensuring a clean and organized file system.
+
+# Logging & Auditing
+
+## The package includes robust logging and auditing mechanisms:
+
+Logging: Each task logs its execution status to track failures and successes.\
+Audit Table: Batch metadata is inserted into an audit table to ensure full traceability of the process.
+
+
+## To run the ETL process:
+
+Open SSIS and load the solution.\
+Run the package via SQL Server Agent or manually through SSDT.
+
+#Contributing
+
+We welcome contributions! Feel free to:
+
+Fork the repository.\
+Create a new feature branch.\
+Make your changes and submit a pull request.
