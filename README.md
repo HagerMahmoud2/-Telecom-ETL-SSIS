@@ -45,9 +45,9 @@ Audit Table: Batch metadata is inserted into an audit table to ensure full trace
 Open SSIS and load the solution.\
 Run the package via SQL Server Agent or manually through SSDT.
 
-#Contributing
+# Contributing
 
-We welcome contributions! Feel free to:
+## We welcome contributions! Feel free to:
 
 Fork the repository.\
 Create a new feature branch.\
