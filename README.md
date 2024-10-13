@@ -9,27 +9,25 @@ Data Transformation & Validation: Applies strict mapping rules and validation lo
 Data Integrity: Invalid records are rejected and stored in a separate error table for review.\
 Comprehensive Error Handling: Logs all errors encountered during extraction and transformation phases.\
 Data Auditing: Metrics like the number of processed, stored, and rejected records are tracked for full traceability.\
-Automated Workflow: Processed files are moved to designated folders to maintain an organized system.\
+Automated Workflow: Processed files are moved to designated folders to maintain an organized system.
 
 # Technologies Used
 
 SQL Server Integration Services (SSIS): The primary tool for developing the ETL pipeline.\
 SQL Server: The database for storing and processing telecom data.\
-Visual Studio: Used for managing data flow .\
+Visual Studio: Used for managing data flow .
 
 # Data Transformation & Validation:
 
 Processed critical fields such as IMSI, IMEI, and EVENT_TS based on strict mapping rules.\
-Ensured data integrity by rejecting records that didn't meet criteria, storing them in a separate table for review.\
+Ensured data integrity by rejecting records that didn't meet criteria, storing them in a separate table for review.
 
 # Data Quality Assurance:
 
 Stored essential metrics like the number of processed, stored, and rejected records.\
-Linked processed records back to their original CSV files, ensuring full traceability.\
+Linked processed records back to their original CSV files, ensuring full traceability.
 
 # Efficient Data Storage:
 
 The ETL process is designed to store validated data in a structured database model that aligns with business requirements.\
-
-
-Processed CSV files are automatically moved to designated folders, ensuring a clean and organized file system.\
+Processed CSV files are automatically moved to designated folders, ensuring a clean and organized file system.
