@@ -32,4 +32,4 @@ Linked processed records back to their original CSV files, ensuring full traceab
 The ETL process is designed to store validated data in a structured database model that aligns with business requirements.
 
 
-    Processed CSV files are automatically moved to designated folders, ensuring a clean and organized file system.
+Processed CSV files are automatically moved to designated folders, ensuring a clean and organized file system.
