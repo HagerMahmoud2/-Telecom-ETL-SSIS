@@ -47,7 +47,7 @@ Run the package via SQL Server Agent or manually through SSDT.
 
 # Contributing
 
-## We welcome contributions! Feel free to:
+We welcome contributions! Feel free to:
 
 Fork the repository.\
 Create a new feature branch.\
